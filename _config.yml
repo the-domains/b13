@@ -1,0 +1,14 @@
+layout_spectrum: 0.3311024222057313
+typography_spectrum: 0.9377914755605161
+color:
+  brandStrength: 0.44328571087680757
+  lightness: 0.6519560494925827
+  saturation: 0.7267480310983956
+  rhythmicContrast: 0.4026206999551505
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: b13
