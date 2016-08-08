@@ -1,4 +1,3 @@
-layout_spectrum: 0.3311024222057313
 typography_spectrum: 0.9377914755605161
 color:
   brandStrength: 0.44328571087680757
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.3311024222057313
 name: b13
+title: Welcome
 description: This is an automatically created website
